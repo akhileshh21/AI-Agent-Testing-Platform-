@@ -1,4 +1,4 @@
-# 🚀 AI Agents Testing Platform
+# 🚀 Cerebra : The AI Agents Testing Platform 
 
 A comprehensive fullstack platform for testing and evaluating ML research AI agents on various research tasks including idea generation, proposal writing, experimentation, and paper writing.
 
